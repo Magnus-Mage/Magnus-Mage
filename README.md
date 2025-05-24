@@ -22,7 +22,7 @@
 Current Project: <a href="https://github.com/Magnus-Mage/6502-CPU-Emulator">6502-CPU-EMULATOR.</a>
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="linkedin.com/in/psharmamag">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/psharmamag/">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; 
   &nbsp;
