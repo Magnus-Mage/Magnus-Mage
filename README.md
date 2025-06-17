@@ -1,8 +1,8 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b>Pranav(Magnus)</b>.
-    <br>I'm a Final Year CS Student in India.<br>
+    Hello there! I'm <strong>Magnus</strong>.<br>
+    <br>A low-level enthusiast diving into AI, compilers, and system architecture.<br>
 
 </samp>
 
@@ -19,7 +19,21 @@
 
 <img src="goose-ducks.gif" width="200"/>
 
-Current Project: <a href="https://github.com/Magnus-Mage/6502-CPU-Emulator">6502-CPU-EMULATOR.</a>
+<p>
+    Current Projects:
+    <ul style="list-style-type:none; padding-left:0;">
+      <li>
+        <a href="https://github.com/Magnus-Mage/6502-CPU-Emulator" target="_blank" rel="noopener noreferrer">
+          6502-CPU-EMULATOR
+        </a> - A project to emulate the classic 6502 CPU.
+      </li>
+      <li>
+        <a href="https://github.com/Magnus-Mage/k8s-orch-pipeline" target="_blank" rel="noopener noreferrer">
+          Serverless ML on K8s
+        </a> - Brief description of the second project goes here.
+      </li>
+    </ul>
+  </p>
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/psharmamag/">
