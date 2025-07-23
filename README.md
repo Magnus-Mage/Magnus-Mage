@@ -22,8 +22,8 @@
             </a> - A project to emulate the classic 6502 CPU.
           </li>
           <li>
-            <a href="https://github.com/Magnus-Mage/k8s-orch-pipeline" target="_blank" rel="noopener noreferrer">
-              Serverless ML on K8s
+            <a href="https://github.com/Magnus-Mage/asm-stackcraft-x86_64" target="_blank" rel="noopener noreferrer">
+              Assembly in x86_64
             </a> - Serverless deployment of ML models using Infra-as-code.
           </li>
         </ul>
