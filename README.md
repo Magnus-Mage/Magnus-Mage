@@ -24,7 +24,7 @@
           <li>
             <a href="https://github.com/Magnus-Mage/asm-stackcraft-x86_64" target="_blank" rel="noopener noreferrer">
               Assembly in x86_64
-            </a> - Serverless deployment of ML models using Infra-as-code.
+            </a> - Basic Assembly scripts and replications
           </li>
         </ul>
       </p>
